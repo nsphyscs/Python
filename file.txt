@@ -1,0 +1,1 @@
+Menuliskan komen di python dengan tanda #
