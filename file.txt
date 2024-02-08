@@ -1,2 +1,2 @@
 Menuliskan komen di python dengan tanda #
-Selamat belajar python
+Hello World
